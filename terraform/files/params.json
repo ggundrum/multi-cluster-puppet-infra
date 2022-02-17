@@ -1,0 +1,5 @@
+{
+    "primary_host": "pe-node.gg.ggundrum-aws.tsedemos.com",
+    "console_password": "puppetlabs",
+    "version": "2021.3.0"
+}

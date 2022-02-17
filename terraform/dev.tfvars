@@ -1,0 +1,6 @@
+username = "pse-dev-user"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC94msJYn78JNsD53//335g5JnUdHRizQoTwkNw5QIYOqmd84X+mK4+s6mWCIv8dXCX0tHCMrjtuNNHtOczwbOj/GLUVLwgQqsYxfu3nYT6Yp+cAQZb8N7s7BWYffL/l+T9L37AvYVA35aok//dcmAiDdBvrSdCXFCLczfvtTnK++XvyvEZgpzk+McypYJV9aS1gm1METL+qotTTgHcYNdc+rYDfvZ4m74qsU4nmEJ6eNuSPzjq5KX78vSXc0fPA3c6t0BxHsZBqK1QAythrGBryoT31nIXJEMiFxCaQKbqxO34iuL6MYdaYImZW6t7rEMppXpMzIFxbUQmcckrhwF51i519kDPKW4/H5j7rrR3jcUrd7bkJ4wxMAMIUaZRQ6S0dZif5gGbYUqS1sbqIN3ZbQnPPwCR8JobfQAlORL9xpdvMLdhWCWCk9WbrdVMA/V5NdUwBUtcy/1n/HVn1F0mU+XCtXrsOydrabKnjeMN2wGOBDm63bc5iXzUggQj8jWHT+omp10UND/AmQThYORbEvlyldkuGt9DrI9YX3zyxwg/mK+EXMQgL4myQp0X4Wr3KQytJVORn0zYI7OWFmGZtpt47hSpOWXWGKCiXxpOERgyuLfJ+KpqIdVlDuJQlIiMUja+di7QtI9oYePJaUiCqkf8PHUVPaPpM+SXTQJOGQ== "
+region = "us-west-1"
+local_private_key_path = "/Users/greyson.gundrum/.ssh/dev-key"
+initials = "pdu"
+home_ip_address = "173.0.0.189/32"

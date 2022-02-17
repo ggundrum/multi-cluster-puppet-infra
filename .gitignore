@@ -1,0 +1,3 @@
+terraform/.terraform
+terraform/s3_bucket/.terraform
+terraform.tfstate

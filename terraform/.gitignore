@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+s3-bucket/.terraform.lock.hcl
+s3-bucket/.terraform/providers
+terraform.tfstate
+terraform.tfstate.backup
+security-group/.terraform/providers
